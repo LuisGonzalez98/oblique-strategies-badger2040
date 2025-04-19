@@ -28,5 +28,7 @@ apps/
 ## ✍️ Autor
 Luis Raúl González Romo – [@luisgonzalez98](https://www.linkedin.com/in/luis-raul-gonzalez-romo/)
 
+[![Ver demo en YouTube](https://img.youtube.com/vi/t72oaRMu9TM/hqdefault.jpg)](https://youtube.com/shorts/t72oaRMu9TM?feature=share)
+
 ## 📄 Licencia
 MIT
